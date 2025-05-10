@@ -1,0 +1,14 @@
+{
+  "name": "simple-timezone-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to show current time in specified timezone.",
+  "main": "index.js",
+  "bin": {
+    "timezone-cli": "./index.js"
+  },
+  "author": "ngaexplor",
+  "license": "MIT",
+  "dependencies": {
+    "moment-timezone": "^0.5.43"
+  }
+}
